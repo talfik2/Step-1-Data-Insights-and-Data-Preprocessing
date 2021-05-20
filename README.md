@@ -15,3 +15,5 @@ In this stpe, I used following methods:
 * Feature Extraction <br> PCA; plotting features & PCA's n_components for 90 % usefulness
 * Outlier Detection <br> Matplotlib's boxplot
 * Outlier Elimination <br> Quantile Based Outlier Elimination Technique
+
+DataSets.zip file contains the dataset that I used in the first step.
