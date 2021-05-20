@@ -1,8 +1,11 @@
 # Step-1-Data-Insights-and-Data-Preprocessing
-* In this step, I got to know our data and made it ready for other steps by preprocessing it.
-* First, I merged the relevant tables and examined our data.
-* Then, I preprocessed data, and make it ready for further steps.
-* In this stpe, I used following methods:
+In this step, I got to know our data and made it ready for other steps by preprocessing it.
+
+First, I merged the relevant tables and examined our data.
+
+Then, I preprocessed data, and make it ready for further steps.
+
+In this stpe, I used following methods:
 
 * Joining tables <br>
  pd.merge
